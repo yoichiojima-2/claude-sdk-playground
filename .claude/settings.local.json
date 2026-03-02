@@ -5,7 +5,11 @@
       "Bash(claude:*)",
       "Bash(DEBUG_CLAUDE_AGENT_SDK=1 npx tsx:*)",
       "Bash(ls:*)",
-      "Bash(git add:*)"
+      "Bash(git add:*)",
+      "Bash(git commit:*)",
+      "Bash(gh repo:*)",
+      "Bash(git:*)",
+      "Bash(gh auth:*)"
     ]
   }
 }
